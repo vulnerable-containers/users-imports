@@ -17,7 +17,7 @@ Um exemplo de arquivo CSV está disponível na raíz do projeto: ``users-data.cs
 - Docker e Docker Compose
 
 ## Especificações
-- PHP 8.4.6
+- PHP 8.4.27
 - MySQL 8.0
 - Laravel 12.0
 - Redis 7.4
